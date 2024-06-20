@@ -1,0 +1,7 @@
+Flask
+flask_cors
+tensorflow
+Pillow
+boto3
+requests
+python-dotenv
